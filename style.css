@@ -1,0 +1,60 @@
+body{
+    background-image: url('https://1.bp.blogspot.com/-GQoxQVxR4Sc/XTOif_TLBrI/AAAAAAAAtAs/ScLKZsI83l8piEHJwAfs2aaCXj60dXqAgCLcBGAs/s640/WIZZ%2BAIR%2BSKOPJE.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-right{
+    padding-left: 400px;
+}
+.element{
+    margin:20px;
+    padding-bottom: 700px;
+    padding:solid 10px;
+    color:black;
+}
+.a-element{
+    padding-left:200px;
+    padding-bottom: 700px;
+    color:black;
+}
+.head{
+    background-color: white;
+    margin-left:5%;
+    margin-right: 5%;
+    padding-top: 10px;
+}
+.heading{
+    padding-left: 20px;
+}
+.head-div{
+    padding-right: 20px;
+    padding-left: 700px;
+    padding-top: 200px;
+    color:green;
+}
+.button{
+    color: red;
+}
+.image{
+    background-color: white;
+}
+.heading-h1{
+    padding-top: 50px;
+    color: brown;
+}
+.form{
+    color: blue;
+    padding-bottom:50px;
+}
+.one{
+    height:5vh;
+    width:15vw;
+}
+.two{
+    color:blue;
+}
+.para{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 5px;
+}
